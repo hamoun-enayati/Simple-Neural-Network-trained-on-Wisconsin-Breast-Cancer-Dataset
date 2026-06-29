@@ -5,8 +5,7 @@ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 
 ## 🤖 The model
-A sequential model is used, as follows:
- Model: "sequential_1"
+A sequential model is used, as follows:<br>
 Model: "sequential"
 
 <table>
