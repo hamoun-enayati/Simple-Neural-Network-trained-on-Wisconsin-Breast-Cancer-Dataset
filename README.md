@@ -17,21 +17,26 @@ Model: "sequential"
   </tablehead>
  <tablebody>
    <tr>
-    <td>dense (Dense)</td>
+    <td>dense_27 (Dense)</td>
     <td>(None, 100)</td>
     <td>3,100</td>
    </tr>
   
    <tr>
-    <td>dense_1 (Dense) </td>
-    <td>(None, 1)</td>
-    <td>101</td>
+    <td>dense_28 (Dense) </td>
+    <td>(None, 128)</td>
+    <td>12,928</td>
+   </tr>
+   <tr>
+    <td>dense_29 (Dense)</td>
+    <td>(None, 2)</td>
+    <td>258</td>
    </tr>
  </tablebody>
 </table>
 
- Total params: 3,201 (12.50 KB)
- Trainable params: 3,201 (12.50 KB)
+ Total params: 16,286 (63.62 KB)
+ Trainable params: 16,286 (63.62 KB)
  Non-trainable params: 0 (0.00 B)
 
 
