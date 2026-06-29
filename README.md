@@ -15,18 +15,25 @@ Model: "sequential"
     <td>Output Shape</td>
     <td>Param #</td>
   </tablehead>
+ <tablebody>
+   <tr>
+    <td>dense (Dense)</td>
+    <td>(None, 100)</td>
+    <td>3,100</td>
+   </tr>
+  
+   <tr>
+    <td>dense_1 (Dense) </td>
+    <td>(None, 1)</td>
+    <td>101</td>
+   </tr>
+ </tablebody>
 </table>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
-┃ Layer (type)                    ┃ Output Shape           ┃       Param # ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
-│ dense (Dense)                   │ (None, 100)            │         3,100 │
-├─────────────────────────────────┼────────────────────────┼───────────────┤
-│ dense_1 (Dense)                 │ (None, 1)              │           101 │
-└─────────────────────────────────┴────────────────────────┴───────────────┘
+
  Total params: 3,201 (12.50 KB)
  Trainable params: 3,201 (12.50 KB)
  Non-trainable params: 0 (0.00 B)
 
 
-The model is trained using 40 epochs with batch size = 64 and a callback with early stopping 
-with min_delta = 0.02 and patience = 3.
+The model is trained in 100 epochs and a validation split of 0.1, reaching 96% precision and 98% recall
+
