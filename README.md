@@ -42,7 +42,7 @@ Model: "sequential"
 
 
 ## 📈 Results
-The model is trained in 100 epochs and a validation split of 0.1, consistently reaching above 90 percent precision and accuracy.
+The model is trained in 100 epochs and a validation split of 0.1, consistently reaching above 90 percent precision and recall.
 
 <img width="500" height="400" alt="ebeb5e58-0117-4451-bc8a-7dc7137f0dc9" src="https://github.com/user-attachments/assets/94bce0a9-2cc7-46c8-8f06-361a13d274b2" />
 <img width="500" height="400" alt="96f3dc5f-466f-4e7d-9d93-1ee84816bb5d" src="https://github.com/user-attachments/assets/42270a16-67f9-4c5e-b0c8-a0a59866f7c3" />
