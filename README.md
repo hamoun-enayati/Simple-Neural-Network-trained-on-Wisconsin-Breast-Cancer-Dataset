@@ -35,11 +35,14 @@ Model: "sequential"
  </tablebody>
 </table>
 
- Total params: 16,286 (63.62 KB)
- Trainable params: 16,286 (63.62 KB)
- Non-trainable params: 0 (0.00 B)
+ Total params: 16,286 (63.62 KB) <br>
+ Trainable params: 16,286 (63.62 KB)<br>
+ Non-trainable params: 0 (0.00 B)<br>
+
 
 
 ## 📈 Results
-The model is trained in 100 epochs and a validation split of 0.1, reaching 96% precision and 98% recall on test data
+The model is trained in 100 epochs and a validation split of 0.1, consistently reaching above 90 percent precision and accuracy.
 
+<img width="547" height="413" alt="ebeb5e58-0117-4451-bc8a-7dc7137f0dc9" src="https://github.com/user-attachments/assets/94bce0a9-2cc7-46c8-8f06-361a13d274b2" />
+<img width="547" height="413" alt="96f3dc5f-466f-4e7d-9d93-1ee84816bb5d" src="https://github.com/user-attachments/assets/42270a16-67f9-4c5e-b0c8-a0a59866f7c3" />
