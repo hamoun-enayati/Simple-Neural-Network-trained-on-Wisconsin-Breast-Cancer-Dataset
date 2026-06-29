@@ -1,5 +1,5 @@
 # Overview
-I trained a dense neural network on Wisconsin Breast Cancer Dataset. The full explanation to the dataset can be found in wdbc.names
+I trained a dense neural network on Wisconsin Breast Cancer Dataset. The full explanation to the dataset can be found in wdbc.names.
 ## 📄 Link to dataset:
 https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
