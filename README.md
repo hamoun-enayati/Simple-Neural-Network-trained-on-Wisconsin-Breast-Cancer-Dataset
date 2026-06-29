@@ -16,6 +16,12 @@ Model: "sequential"
   </tablehead>
  <tablebody>
    <tr>
+    <td>Input Layer</td>
+    <td>Input shape = (30,)</td>
+    <td>-</td>
+   </tr>
+  
+   <tr>
     <td>dense_27 (Dense)</td>
     <td>(None, 100)</td>
     <td>3,100</td>
