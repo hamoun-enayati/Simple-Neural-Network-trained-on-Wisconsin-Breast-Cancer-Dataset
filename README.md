@@ -35,5 +35,6 @@ Model: "sequential"
  Non-trainable params: 0 (0.00 B)
 
 
-The model is trained in 100 epochs and a validation split of 0.1, reaching 96% precision and 98% recall
+## 📈 Results
+The model is trained in 100 epochs and a validation split of 0.1, reaching 96% precision and 98% recall on test data
 
