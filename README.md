@@ -1,7 +1,10 @@
+
 # Overview
+<img width="793" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/5a0f5104-d525-4ca3-aa11-472b01efc761" /> <br><br>
 I trained a dense neural network on Wisconsin Breast Cancer Dataset. The full explanation to the dataset can be found in wdbc.names.
 ## 📄 Link to dataset:
 https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
 
 
 ## 🤖 The model
